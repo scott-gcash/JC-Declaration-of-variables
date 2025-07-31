@@ -25,7 +25,7 @@ public class Main {
         int localHex = 0xFF;
         int localBinary = 13;
         int localOctal = 014;
-        int localLong = 10000000;
+        int localLong = 10_000_000;
         String localString = "Every step I take gets me closer to my goal.";
 
         System.out.printf("localDecimal = %d \n", localDecimal);
